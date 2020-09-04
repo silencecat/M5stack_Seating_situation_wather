@@ -1,0 +1,2 @@
+# M5stack_Seating_situation_wather
+使用M5吧加速度信息传上网
